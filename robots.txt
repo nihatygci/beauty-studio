@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://KULLANICI-ADIN.github.io/sirma-beauty-studio/sitemap.xml
