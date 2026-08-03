@@ -18,7 +18,7 @@ Statik HTML/CSS/JS ile hazırlanmış premium kuaför salonu web sitesi. Build a
    git add .
    git commit -m "İlk deploy"
    git branch -M main
-   git remote add origin https://github.com/KULLANICI-ADIN/sirma-beauty-studio.git
+   git remote add origin https://github.com/nihatygci/sirma-beauty-studio.git
    git push -u origin main
    ```
 
@@ -29,16 +29,16 @@ Statik HTML/CSS/JS ile hazırlanmış premium kuaför salonu web sitesi. Build a
    - Source: **Deploy from a branch**
    - Branch: **main**, klasör: **/ (root)**
    - **Save**
-   - 1-2 dakika içinde `https://KULLANICI-ADIN.github.io/sirma-beauty-studio/` adresinde yayında olur
+   - 1-2 dakika içinde `https://nihatygci.github.io/sirma-beauty-studio/` adresinde yayında olur
 
 ## Yayından Sonra Yapılacaklar
 
-1. **`KULLANICI-ADIN` yerine gerçek GitHub kullanıcı adını yaz** — şu dosyalarda geçiyor:
+1. **`nihatygci` yerine gerçek GitHub kullanıcı adını yaz** — şu dosyalarda geçiyor:
    - `index.html` (canonical, og:url, JSON-LD içinde 3 yer)
    - `robots.txt`
    - `sitemap.xml`
 
-   Hızlı yöntem: klasörde "KULLANICI-ADIN" ifadesini ara ve gerçek kullanıcı adınla değiştir (VS Code'da Ctrl+Shift+H / Cmd+Shift+H ile tüm dosyalarda tek seferde yapılır).
+   Hızlı yöntem: klasörde "nihatygci" ifadesini ara ve gerçek kullanıcı adınla değiştir (VS Code'da Ctrl+Shift+H / Cmd+Shift+H ile tüm dosyalarda tek seferde yapılır).
 
 2. **Gerçek işletme bilgileri**: WhatsApp/telefon/adres, Instagram hesabı, JSON-LD'deki puan/yorum sayısı hâlâ demo verisi — gerçek müşteri için güncellenmeli.
 
